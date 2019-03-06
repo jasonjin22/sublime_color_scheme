@@ -181,7 +181,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#29DFFF</string>
+				<string>#FF529D</string>
 				<key>fontStyle</key>
 				<string> italic  bold</string>
 			</dict>
